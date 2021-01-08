@@ -8,7 +8,8 @@ This bot was made with [*python-telegram-bot*](https://github.com/python-telegra
 
 #### Heroku Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/synuser/TransferSH/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 
 
 [logo]: img/logo.jpg
