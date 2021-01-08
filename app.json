@@ -7,7 +7,7 @@
     "transfersh",
   ],
   "repository": "https://github.com/synuser/TransferSH",
-  "website": "https://github.com/noobvishal/TransferSH",
+  "website": "https://github.com/synuser/TransferSH",
   "success_url": "https://t.me/Transfer_SHBot",
   "stack": "container",
   "env": {
