@@ -1,19 +1,17 @@
 {
-  "name": "TransferSH Bot",
-  "description": "[TransferSH Bot] A Telegram Interface For transfer.sh",
-  "keywords": [
-    "telegram",
-    "bot",
-    "transfersh",
+ "name": "Hall of Christmas",
+ "description": "Telegram ju to Image!!",
+ "logo": "https://telegra.ph/file/315d6985c6fe4f6824cde.jpg",
+ "keywords": [
+   "telegram",
+   "FilkBot",
+   "For ScreenShot Bot"
   ],
-  "repository": "https://github.com/synuser/TransferSH",
-  "website": "https://github.com/synuser/TransferSH",
-  "success_url": "https://t.me/Transfer_SHBot",
-  "stack": "container",
-  "env": {
-    "TOKEN": {
-      "description": "Get Your Telegram Bot Token From BotFather In Telegram",
-      "required": true
-    }
+ "repository": "https://github.com/synuser/TransferSH",
+ "env": {
+   "TOKEN": {
+      "description": "Your Telegram API ID. Get this value from my.telegram.org!",
+      "value": ""
   }
+ }
 }
