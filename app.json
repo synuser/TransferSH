@@ -6,7 +6,7 @@
     "bot",
     "transfersh",
   ],
-  "repository": "https://github.com/noobvishal/TransferSH",
+  "repository": "https://github.com/synuser/TransferSH",
   "website": "https://github.com/noobvishal/TransferSH",
   "success_url": "https://t.me/Transfer_SHBot",
   "stack": "container",
